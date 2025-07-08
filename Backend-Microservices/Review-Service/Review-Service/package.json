@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "axios": "^1.10.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "events": "^3.3.0",
+    "express": "^5.1.0",
+    "ipfs-http-client": "^50.1.2",
+    "lucid": "^2.21.0",
+    "lucid-cardano": "^0.10.11",
+    "mongoose": "^8.16.1"
+  },
+  "name": "review-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@ljharb/tsconfig": "^0.3.2"
+  }
+}
