@@ -142,15 +142,3 @@ PLATFORM_PRIVATE_KEY=a10101...your_cose_key_here
 | Wallet Integration | Lace Wallet (Mesh SDK – frontend)   |
 | Signing (Backend)  | Lucid (platform wallet)             |
 | Env Management     | dotenv (`.env` file)                |
-
----
-
-## 📜 License
-
-MIT © 2025 TravelOK
-
----
-
-## ✨ Contributing
-
-Pull requests are welcome! For major changes, open an issue first to discuss what you'd like to change.
