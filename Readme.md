@@ -2,7 +2,7 @@
 
 ## Blockchain-Based Booking & Hospitality Review Platform
 Documnetation : [Documentation.pdf](Documentation.pdf)
-
+Video Link: https://drive.google.com/drive/folders/1_8j6vhmuX6X8bDYiTOa-Iaf_tauKPYlU
 
 ### Getting Started
 This project consists of multiple microservices and a frontend application organized as separate repositories and folders.
