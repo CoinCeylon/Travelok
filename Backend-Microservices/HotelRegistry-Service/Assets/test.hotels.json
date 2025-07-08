@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "686a226b2e1adb5e3e9d18ba"
+  },
+  "name": "Mandarina Colombo",
+  "location": "433 A2, Colombo 00300",
+  "walletAddress": "addr_test1vzpwq95z3xyum8vqndgdd9mdnmafh3djcxnc6jemlgdmswcve6tkw",
+  "licenseIPFSHash": "QmauPcZ2aAtjEvxYsQbhjcywr8Uvf4W3rCB6Hr5KjjtMfX",
+  "imageIPFSHash": "QmRyNKLyvNhU8vVM4CpuN9mURjCB7YKCT1MC5YtSE8h5jJ",
+  "isVerified": false,
+  "createdAt": {
+    "$date": "2025-07-06T07:14:51.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686a23192e1adb5e3e9d18c8"
+  },
+  "name": "Galle Face Hotel",
+  "location": "2, Galle Road, Colombo 03, Sri Lanka 00300",
+  "walletAddress": "addr_test1vzpwq95z3xyum8vqndgdd9mdnmafh3djcxnc6jemlgdmswcve6tka",
+  "licenseIPFSHash": "QmauPcZ2aAtjEvxYsQbhjcywr8Uvf4W3rCB6Hr5KjjtMfX",
+  "imageIPFSHash": "QmUn4CZLQqvrMsTJMn1SwvziCTNTbP6bDviYVfZ2APCzAn",
+  "isVerified": false,
+  "createdAt": {
+    "$date": "2025-07-06T07:17:45.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686a23672e1adb5e3e9d18d0"
+  },
+  "name": "Grandbell Hotel Colombo",
+  "location": "282/5 Kollupitiya Road,Colombo 3",
+  "walletAddress": "addr_test1vzpwq95z3xyum8vqndgdd9mdnmafh3djcxnc6jemlgdmswcve6tkr",
+  "licenseIPFSHash": "QmauPcZ2aAtjEvxYsQbhjcywr8Uvf4W3rCB6Hr5KjjtMfX",
+  "imageIPFSHash": "QmUn4CZLQqvrMsTJMn1SwvziCTNTbP6bDviYVfZ2APCzAn",
+  "isVerified": false,
+  "createdAt": {
+    "$date": "2025-07-06T07:19:03.925Z"
+  },
+  "__v": 0
+}]
