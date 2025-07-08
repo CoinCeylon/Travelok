@@ -1,0 +1,22 @@
+{
+  "name": "booking-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@blockfrost/blockfrost-js": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "nodeman": "^1.1.2",
+    "pg": "^8.16.3"
+  }
+}
