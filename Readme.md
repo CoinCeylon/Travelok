@@ -1,6 +1,8 @@
 # TravelOK
 
 ## Blockchain-Based Booking & Hospitality Review Platform
+Documnetation : [Documentation.pdf](Documentation.pdf)
+
 
 ### Getting Started
 This project consists of multiple microservices and a frontend application organized as separate repositories and folders.
